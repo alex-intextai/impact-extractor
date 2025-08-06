@@ -1,5 +1,13 @@
 # Impact Extractor: Prototype NLP Pipeline for Externality Detection
 
+<div align="center"> 
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyMuPDF-FFA500?style=for-the-badge&logo=readthedocs&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLP-Natural%20Language%20Processing-red?style=for-the-badge" />
+</div>
+
 This project is a prototype system that ingests text from ESG reports and academic papers and extracts sentences or phrases that signal potential externalities such as environmental degradation, health impacts, or social consequences.
 
 ---
