@@ -6,6 +6,8 @@
   <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" />
   <img src="https://img.shields.io/badge/PyMuPDF-FFA500?style=for-the-badge&logo=readthedocs&logoColor=white" />
   <img src="https://img.shields.io/badge/NLP-Natural%20Language%20Processing-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black" />
 </div>
 
 This project is a prototype system that ingests text from ESG reports and academic papers and extracts sentences or phrases that signal potential externalities such as environmental degradation, health impacts, or social consequences.
