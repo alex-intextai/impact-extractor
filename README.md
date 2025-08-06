@@ -53,26 +53,33 @@ This project is a prototype system that ingests text from ESG reports and academ
 
 ## Directories Structure
 
-impact_extractor/
-├── app/ # Streamlit interface
-│ └── main.py
-├── config/ # Configuration and constants
-│ └── settings.py
-├── data/ # Input/output data
-│ ├── raw/
-│ └── outputs/
-├── models/ # Classifier model
-│ └── classifier.py
-├── nlp/ # NLP utilities
-│ ├── spacy_pipeline.py # Preprocessing: lemmatization, NER, etc.
-│ └── extractor.py # Externality phrase extraction
-├── pdf_reader/ # PDF text extraction
-│ └── reader.py
-├── utils/ # Helper functions
-│ └── io_utils.py
-├── requirements.txt
-├── README.md
-└── run.py # CLI script for batch processing
+<pre><code>## Directory Structure 
+├── app/ # Streamlit interface 
+│ └── main.py 
+
+├── config/ # Configuration and constants 
+│ └── settings.py 
+
+├── data/ # Input/output data 
+│ ├── raw/ 
+│ └── outputs/ 
+
+├── models/ # Classifier model 
+│ └── classifier.py 
+
+├── nlp/ # NLP utilities 
+│ ├── spacy_pipeline.py # Preprocessing: lemmatization, NER, etc. 
+│ └── extractor.py # Externality phrase extraction 
+
+├── pdf_reader/ # PDF text extraction 
+│ └── reader.py 
+
+├── utils/ # Helper functions 
+│ └── io_utils.py 
+
+├── requirements.txt 
+├── README.md 
+└── run.py # CLI script for batch processing </code></pre>
 
 ## 🚀 Getting Started
 
