@@ -1,7 +1,7 @@
-import pymupdf
+import sys, pathlib, pymupdf
 
 
-doc = pymupdf.open("../data/raw/Hidden Cost of Supermarket Salmon - FT.pdf") #open
+doc = pymupdf.open("../data/raw/ssrn-3800977.pdf") #open
 out = open("../data/outputs/out.txt", "wb") #create text output
 
 def extract_text(doc, out):
