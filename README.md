@@ -10,8 +10,6 @@
   <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black" />
 </div>
 
----
-
 This project is a prototype system that ingests text from ESG reports and academic papers and extracts sentences or phrases that signal potential externalities such as environmental degradation, health impacts, or social consequences.
 
 ---
