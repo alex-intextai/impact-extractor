@@ -23,7 +23,7 @@ def classify_text(text):
 def main():
     text = "The impact of climate change on global agriculture is significant."
     result = classify_text(text)
-    print(f"Classification result: {result}")
+    print(result)
 
 if __name__ == "__main__":
     main()
